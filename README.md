@@ -1,6 +1,7 @@
 - 👋 Salut, moi c'est Thierry
-- - 🌱 Je suis developpeur en formation DWWM
-- 👀 J'ai une appétance particulière pour le backend.
+- 🌱 Je suis developpeur en formation DWWM
+- 👀 J'aimerais enchaîner sur une formation CDA (cherche alternance ! 🙋‍♂️)
+- 🖥️ J'ai une appétance particulière pour le backend.
 - 💞️ J'aime php et je suis familier avec Symfony 7
 - 📫 Je suis sur LinkedIn avec le même username
 

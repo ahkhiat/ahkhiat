@@ -1,8 +1,8 @@
 - 👋 Salut, moi c'est Thierry
-- - 🌱 Je suis developpeur web en formation
-- 👀 I’m interested in ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- - 🌱 Je suis developpeur en formation DWWM
+- 👀 J'ai une appétance particulière pour le backend.
+- 💞️ J'aime php et je suis familier avec Symfony 7
+- 📫 Je suis sur LinkedIn avec le même username
 
 <!---
 ahkhiat/ahkhiat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

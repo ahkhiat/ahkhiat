@@ -3,7 +3,7 @@
 - 👀 J'aimerais enchaîner sur une formation CDA (cherche alternance ! 🙋‍♂️)
 - 🖥️ J'ai une appétance particulière pour le backend.
 - 💞️ J'aime php et je suis familier avec Symfony 7
-- 📫 Je suis sur [http://localhost:3000](https://www.linkedin.com/in/ahkhiat/)) avec le même username
+- 📫 Je suis sur [LinkedIn](https://www.linkedin.com/in/ahkhiat/) avec le même username
 
 <!---
 ahkhiat/ahkhiat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

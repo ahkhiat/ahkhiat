@@ -1,8 +1,8 @@
-- 👋 Salut, moi c'est Thierry
-- 🌱 Je suis developpeur en formation DWWM
-- 👀 J'aimerais enchaîner sur une formation CDA (cherche alternance ! 🙋‍♂️)
-- 🖥️ J'ai une appétance particulière pour le backend.
-- 💞️ J'aime php et je suis familier avec Symfony 7
+## About me
+
+I am a web developer passionate about new technologies. I am familiar with Symfony and PHP in general. I have good skills with SQL databases. I also enjoy JavaScript environments.
+
+
 - 📫 Je suis sur [LinkedIn](https://www.linkedin.com/in/ahkhiat/) avec le même username
 
 <!---

@@ -22,9 +22,9 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Back-end
-| Symfony | PHP | SQL | 
+| Symfony | PHP | SQL | NodeJs | Express |
 |---|---|---|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="Symfony" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="Symfony" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="SQL" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="SQL" width="40" height="40"/>
 
 
 

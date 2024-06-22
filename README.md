@@ -24,9 +24,9 @@ Front-end
 Back-end
 
 
-| Symfony | PHP | SQL | JavaScript |
+| Symfony | PHP | SQL | 
 |---|---|---|---|
-| ![Symfony](https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg) | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ![SQL](https://img.shields.io/badge/sql-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) |
+| ![Symfony](https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg) | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ![SQL](https://img.shields.io/badge/sql-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
 
 
 https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg

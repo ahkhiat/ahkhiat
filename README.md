@@ -24,8 +24,7 @@ Front-end
 Back-end
 | Symfony | PHP | SQL | 
 |---|---|---|
-| ![Symfony](https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg) | ![PHP](https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg
-) | ![SQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg) |
+| ![Symfony](https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg) | ![PHP](https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg) | ![SQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg) |
 
 
 https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg

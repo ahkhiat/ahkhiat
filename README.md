@@ -15,10 +15,11 @@ You can click the Preview link to take a look at your changes.
 
 ## Technologies & Tools
 
-Front-end
-| HTML | Css | JavaScript |
+## Front-end
+| HTML | CSS | JavaScript |
 |---|---|---|
-| ![HTML](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) | ![CSS](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg) | ![Javascript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> |
+
 
 
 Back-end

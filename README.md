@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 Front-end
 | HTML | Css | JavaScript |
-| https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg
+| ![HTML](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)
  | |
 Back-end
 

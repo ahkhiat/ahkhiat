@@ -1,9 +1,11 @@
 ## About me
 
 I am a web developer passionate about new technologies. I am familiar with Symfony and PHP in general. I have good skills with SQL databases. I also enjoy JavaScript environments.
+I am just at the beginning of my journey, but I am eager to learn, and I love it!
 
+## Social media
 
-- 📫 Je suis sur [LinkedIn](https://www.linkedin.com/in/ahkhiat/) avec le même username
+Join me on LinkeIn, with the same username
 
 <!---
 ahkhiat/ahkhiat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

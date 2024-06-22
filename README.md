@@ -21,11 +21,11 @@ You can click the Preview link to take a look at your changes.
 | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> |
 
 
-
-Back-end
+## Back-end
 | Symfony | PHP | SQL | 
 |---|---|---|
-| ![Symfony](https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg) | ![PHP](https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg) | ![SQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg) |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="Symfony" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> |
+
 
 
 https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg

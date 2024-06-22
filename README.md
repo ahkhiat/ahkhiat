@@ -18,19 +18,16 @@ You can click the Preview link to take a look at your changes.
 Front-end
 | HTML | Css | JavaScript |
 |---|---|---|
-| ![HTML](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) | ![CSS](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg) | ![Javascript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
+| ![HTML](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) | ![CSS](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg) | ![Javascript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) |
 
 
 Back-end
-
-
 | Symfony | PHP | SQL | 
-|---|---|---|---|
-| ![Symfony](https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg) | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ![SQL](https://img.shields.io/badge/sql-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
+|---|---|---|
+| ![Symfony](https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg) | ![PHP](https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg
+) | ![SQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg) |
 
 
 https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg
 
-https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg
-https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg
 

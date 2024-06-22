@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 Front-end
 | HTML | Css | JavaScript |
 |---|---|---|
-| ![HTML](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) | ![CSS](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg | ![Javascript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
+| ![HTML](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) | ![CSS](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg) | ![Javascript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
 
 
 Back-end

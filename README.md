@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 ## Technologies & Tools
 | Symfony | PHP | SQL | JavaScript |
 |---|---|---|---|
-| ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ![SQL](https://img.shields.io/badge/sql-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![JavaScript](icons/javascript/javascript-original.svg) |
+| ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ![SQL](https://img.shields.io/badge/sql-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![JavaScript]([icons/javascript/javascript-original.svg](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)) |
 
 
 

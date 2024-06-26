@@ -34,3 +34,5 @@ Join me on LinkeIn, with the same username
 | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="SQL" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="SQL" width="40" ight="40"/> |
 
 ![Ahkhiat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahkhiat&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahkhiat&layout=compact)

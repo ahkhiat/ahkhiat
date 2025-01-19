@@ -43,7 +43,7 @@ Join me on LinkeIn, with the same username
 ## Software modeling
 | Figma | LucidCart | Draw.io | dbDiagram.io |
 |---|---|---|---|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" /> | <img src="https://e7.pngegg.com/pngimages/625/214/png-clipart-lucidchart-logo-thumbnail-tech-companies-thumbnail.png" alt="Lucid app" width="40" height="40" /> | <img src="" alt="" width="40" height="40" /> | <img src="" alt="" width="40" height="40" /> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" /> | <img src="https://e7.pngegg.com/pngimages/625/214/png-clipart-lucidchart-logo-thumbnail-tech-companies-thumbnail.png" alt="Lucid app" width="40" height="40" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/512px-Diagrams.net_Logo.svg.png" alt="Draw.io" width="40" height="40" /> | <img src="https://cdn-1.webcatalog.io/catalog/dbdiagram-io/dbdiagram-io-icon-unplated.png?v=1714774101634" alt="dbdiagram.io" width="40" height="40" /> |
 
 ## Project management
 | Notion |

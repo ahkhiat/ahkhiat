@@ -1,6 +1,7 @@
 ## About me
 
-I am a web developer passionate about new technologies. I am familiar with POO in Java, Android Studio, Symfony and PHP in general. I have good skills with SQL databases. I also enjoy JavaScript environments.
+I am a developer passionate about new technologies. I started with web development, but I am currently moving towards mobile development. 
+I am familiar with POO in Java, Android Studio, Symfony and PHP in general. I have good skills with SQL databases. I also enjoy JavaScript environments.
 I am just at the beginning of my journey, but I am eager to learn, and I love it!
 
 ## Social media

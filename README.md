@@ -1,6 +1,6 @@
 ## About me
 
-I am a web developer passionate about new technologies. I am familiar with Symfony and PHP in general. I have good skills with SQL databases. I also enjoy JavaScript environments.
+I am a web developer passionate about new technologies. I am familiar with POO in Java, Android Studio, Symfony and PHP in general. I have good skills with SQL databases. I also enjoy JavaScript environments.
 I am just at the beginning of my journey, but I am eager to learn, and I love it!
 
 ## Social media
@@ -10,6 +10,12 @@ Join me on LinkeIn, with the same username
 
 
 ## Technologies & Tools
+
+## Mobile
+| Android Studio |
+|---|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/> |
+
 
 ## Front-end
 | HTML | CSS | JavaScript | Tailwind | Bootstrap | React |

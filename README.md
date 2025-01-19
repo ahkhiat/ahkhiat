@@ -40,6 +40,16 @@ Join me on LinkeIn, with the same username
 |---|---|---|---|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="SQL" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="SQL" width="40" ight="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/> |
 
+## Software modeling
+| Figma | LucidCart | Draw.io | dbDiagram.io |
+|---|---|---|---|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" /> | <img src="" alt="" width="40" height="40" /> | <img src="" alt="" width="40" height="40" /> | <img src="" alt="" width="40" height="40" /> |
+
+## Projet management
+| Notion |
+|---|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" alt="Notion" width="40" height="40" /> |
+
 ![Ahkhiat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahkhiat&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahkhiat&layout=compact)

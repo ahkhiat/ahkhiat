@@ -26,7 +26,7 @@ Join me on LinkeIn, with the same username
 
 ## Back-end
 | Symfony | PHP | NodeJs | Express | Java | Kotlin |
-|---|---|---|---|---| 
+|---|---|---|---|---|---|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="Symfony" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Java" width="40" height="40"/> |
 
 

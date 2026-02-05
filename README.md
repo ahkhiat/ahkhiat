@@ -1,8 +1,8 @@
 ## About me
 
-I am a developer passionate about new technologies. I started with web development, but I am currently moving towards mobile development. 
-I am familiar with POO in Java, Android Studio, Symfony and PHP in general. I have good skills with SQL databases. I also enjoy JavaScript environments.
-I am just at the beginning of my journey, but I am eager to learn, and I love it!
+Android (Kotlin) & Backend Developer
+Spring Boot · NestJS · MongoDB · MySQL · Docker · CI/CD
+Build, test, ship 🚀
 
 ## Social media
 
@@ -25,9 +25,9 @@ Join me on LinkeIn, with the same username
 
 
 ## Back-end
-| Symfony | PHP | NodeJs | Express | Java | Kotlin |
+| Symfony | NestJs | Spring Boot |
 |---|---|---|---|---|---|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="Symfony" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Java" width="40" height="40"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="Symfony" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" alt="NestJs" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring boot" width="40" height="40"/> 
 
 
 ## Databases

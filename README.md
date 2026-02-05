@@ -35,20 +35,6 @@ Join me on LinkeIn, with the same username
 |---|---|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="SQL" width="40" ight="40"/> |
 
-## Developper experience
-| VSCode | Postman | IntelliJ | Android Studio |
-|---|---|---|---|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="SQL" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="SQL" width="40" ight="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/> |
-
-## Software modeling
-| Figma | LucidCart | Draw.io | dbDiagram.io |
-|---|---|---|---|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" /> | <img src="https://e7.pngegg.com/pngimages/625/214/png-clipart-lucidchart-logo-thumbnail-tech-companies-thumbnail.png" alt="Lucid app" width="40" height="40" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/512px-Diagrams.net_Logo.svg.png" alt="Draw.io" width="40" height="40" /> | <img src="https://cdn-1.webcatalog.io/catalog/dbdiagram-io/dbdiagram-io-icon-unplated.png?v=1714774101634" alt="dbdiagram.io" width="40" height="40" /> |
-
-## Project management
-| Notion |
-|---|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" alt="Notion" width="40" height="40" /> |
 
 ![Ahkhiat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahkhiat&show_icons=true&theme=radical)
 

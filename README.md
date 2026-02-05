@@ -26,7 +26,7 @@ Join me on LinkeIn, with the same username
 
 ## Back-end
 | Symfony | NestJs | Spring Boot |
-|---|---|---|---|---|---|
+|---|---|---|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="Symfony" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" alt="NestJs" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring boot" width="40" height="40"/> 
 
 

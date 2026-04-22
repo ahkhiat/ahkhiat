@@ -19,9 +19,9 @@ Join me on LinkeIn, with the same username
 
 
 ## Front-end
-| HTML | CSS | JavaScript | Tailwind | Bootstrap | React |
+| HTML | CSS | JavaScript | Tailwind | React |
 |---|---|---|---|---|---|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="CSS" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="CSS" width="40" height="40"/>
+| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="CSS" width="40" height="40"/>
 
 
 ## Back-end

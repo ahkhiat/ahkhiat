@@ -2,14 +2,19 @@
 
 🌍 Based in France 
 
-<a href="https://gitlab.com/ahkhiat">
-<img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white" alt="HTML"  height="40"/> </a>
-
-<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="HTML"  height="40"/> 
-
-<a href="https://www.linkedin.com/in/ahkhiat">
-<img src="https://camo.githubusercontent.com/835f91c273c180e842aa0b2fb0d5ccc52def20089589abbcefceb28317c583f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="HTML"  height="40"/> </a>
-
+<p align="left">
+  <a href="https://gitlab.com/ahkhiat">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white" height="40"/>
+  </a>
+  
+  <a href="https://github.com/ton-username">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height="40"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/ahkhiat">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+  </a>
+</p>
 
 ---
 
@@ -91,8 +96,8 @@ Git, Docker, CI/CD
 
 ## 📚 Education
 
-🎓 Concepteur Développeur d’Applications (Bac+3/4) – In progress
-🎓 Développeur Web & Web Mobile (Bac+2)
+- 🎓 Concepteur Développeur d’Applications (Bac+3/4) – In progress
+- 🎓 Développeur Web & Web Mobile (Bac+2)
 
 ## 🌍 Goals
 Work on impactful international projects

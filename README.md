@@ -42,24 +42,35 @@ I enjoy designing clean architectures, solving complex problems, and creating sm
 
 ## 📅 2024 - Present
 
-Development of full-stack applications (React + Symfony API)
-Implementation of secure authentication systems (JWT)
-API integration and data management
-Participation in architecture and technical decisions
-💻 Projects
-📱 Android App – Football Club Management
-Manage players, matches, and events
-Track attendance and performance
-Calendar with dynamic data (RecyclerView)
-Backend with Symfony API Platform
-🌐 Web App – E-commerce (React)
-Product listing from external API
-Cart management & checkout (Stripe integration)
-Authentication & protected routes
-⚽ Sports Betting App (No real money)
-Points-based betting system
-Integration with sports API
-Real-time results tracking
+- Development of full-stack applications.
+- Implementation of secure authentication systems (JWT)
+- API integration and data management (SQL & NoSQL)
+- Participation in architecture and technical decisions
+  
+### 💻 Projects
+
+- 📱 Football Club Management App
+
+A mobile application designed to manage players, matches, and team activities.
+
+Built a complete system to track attendance, performance, and events
+Designed a dynamic calendar interface powered by real-time data
+Developed a structured backend API to handle business logic and data consistency
+Focused on clean architecture and maintainability on the mobile side
+SpringBoot, React, Android
+
+- 🏍️ GetMyBike – Motorcycle Rental Platform
+
+A full-stack web application inspired by rental platforms, allowing users to rent and manage motorcycles.
+
+Designed and developed the entire application from scratch
+Implemented booking logic with date validation and conflict handling
+Built a role-based system (users / owners) with dedicated features
+Structured the backend using a custom MVC-like architecture
+Designed a relational database with a focus on data integrity
+php
+
+👉 This project highlights my ability to build a complete product without relying on frameworks, and to deeply understand backend fundamentals.
 
 ## 🛠️ Tech Stack
 
@@ -70,36 +81,23 @@ Mobile
 Kotlin, Jetpack Compose
 
 Backend
-Symfony, API Platform, Node.js (Express)
+Nest Ts, Spring Boot, Symfony, Node.js 
 
 Database
 MySQL, MongoDB
 
 Tools & DevOps
-Git, Docker, CI/CD basics
+Git, Docker, CI/CD
 
-📚 Education
+## 📚 Education
 
 🎓 Concepteur Développeur d’Applications (Bac+3/4) – In progress
 🎓 Développeur Web & Web Mobile (Bac+2)
 
-🌍 Goals
+## 🌍 Goals
 Work on impactful international projects
 Improve my expertise in mobile & backend architecture
 Deepen my skills in DevOps and cloud technologies
-📫 Contact
-
-📧 your.email@example.com
-
-🔗 LinkedIn
-💻 GitHub
-
-
-
-
-
-
-
 
 ![Ahkhiat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahkhiat&show_icons=true&theme=radical)
 

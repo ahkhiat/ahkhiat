@@ -10,44 +10,101 @@
 
 ## About me
 
-```js
+
+
+👋 Hello, I'm Thierry LEUNG  
+
+🌍 Based in France | 🎯 Open to opportunities in Web & Mobile Development  
+
+[Portfolio] [GitHub] [LinkedIn]  
+
+📧 your.email@example.com  
+
+---
+
+## 🚀 About Me
+
+```yaml
 name: Thierry LEUNG
 role: Developper
-specialization: [Android Kotlin, Nest TS]
+focus: Backend Architecture & Mobile Development
+stack: Kotlin / React / Spring Boot / NestJS / Symfony
 current_position: Developper @ Dev-id
 location: Marseille, France
 ```
 
-## Social media
+Passionate Full Stack Developer with a strong focus on building modern web and mobile applications.
+I enjoy designing clean architectures, solving complex problems, and creating smooth user experiences.
 
-Join me on LinkeIn, with the same username
+🎯 What I do:
+Build modern web applications with React + Tailwind
+Develop Android applications using Kotlin & Jetpack Compose
+Design and consume REST APIs (Symfony / API Platform)
+Implement authentication systems (JWT, secure flows)
+Structure scalable and maintainable projects (clean architecture, MVC)
+Work with databases (MySQL, MongoDB)
+Integrate third-party APIs (payments, sports data, etc.)
+💼 Professional Experience
+🏢 Work-study Developer
+
+📅 2024 - Present
+
+Development of full-stack applications (React + Symfony API)
+Implementation of secure authentication systems (JWT)
+API integration and data management
+Participation in architecture and technical decisions
+💻 Projects
+📱 Android App – Football Club Management
+Manage players, matches, and events
+Track attendance and performance
+Calendar with dynamic data (RecyclerView)
+Backend with Symfony API Platform
+🌐 Web App – E-commerce (React)
+Product listing from external API
+Cart management & checkout (Stripe integration)
+Authentication & protected routes
+⚽ Sports Betting App (No real money)
+Points-based betting system
+Integration with sports API
+Real-time results tracking
+🛠️ Tech Stack
+
+Frontend
+React, Tailwind CSS
+
+Mobile
+Kotlin, Jetpack Compose
+
+Backend
+Symfony, API Platform, Node.js (Express)
+
+Database
+MySQL, MongoDB
+
+Tools & DevOps
+Git, Docker, CI/CD basics
+
+📚 Education
+
+🎓 Concepteur Développeur d’Applications (Bac+3/4) – In progress
+🎓 Développeur Web & Web Mobile (Bac+2)
+
+🌍 Goals
+Work on impactful international projects
+Improve my expertise in mobile & backend architecture
+Deepen my skills in DevOps and cloud technologies
+📫 Contact
+
+📧 your.email@example.com
+
+🔗 LinkedIn
+💻 GitHub
 
 
 
-## Technologies & Tools
-
-## Mobile
-| Android Studio |
-|---|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/> |
 
 
-## Front-end
-| HTML | CSS | JavaScript | Tailwind | React |
-|---|---|---|---|---|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="CSS" width="40" height="40"/>
 
-
-## Back-end
-| Symfony | NestJs | Spring Boot |
-|---|---|---|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="Symfony" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" alt="NestJs" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring boot" width="40" height="40"/> 
-
-
-## Databases
-| mySQL | MongoDB |
-|---|---|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="SQL" width="40" ight="40"/> |
 
 
 ![Ahkhiat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahkhiat&show_icons=true&theme=radical)

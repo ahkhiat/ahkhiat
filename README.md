@@ -1,4 +1,5 @@
-<img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white" alt="HTML"  height="40"/> 
+<a href="https://gitlab.com/ahkhiat">
+<img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white" alt="HTML"  height="40"/> </a>
 
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="HTML"  height="40"/> 
 

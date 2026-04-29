@@ -1,5 +1,5 @@
-https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white
-
+<img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white
+" alt="HTML" width="40" height="40"/> 
 ## About me
 
 ```js

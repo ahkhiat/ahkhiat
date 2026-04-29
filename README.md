@@ -1,3 +1,5 @@
+https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white
+
 ## About me
 
 ```js

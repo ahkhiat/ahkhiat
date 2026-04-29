@@ -1,6 +1,6 @@
 ## About me
 
-```kotlin
+```js
 name: Thierry LEUNG
 role: Developper
 specialization: [Android Kotlin, Nest TS]

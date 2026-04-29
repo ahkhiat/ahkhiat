@@ -34,16 +34,18 @@ I enjoy designing clean architectures, solving complex problems, and creating sm
 
 🎯 What I do:
 
-- Build modern web applications with React + Tailwind
+- Build modern web applications
 - Develop Android applications using Kotlin & Jetpack Compose
-- Design and consume REST APIs (Symfony / API Platform)
+- Design and consume REST APIs (SpringBoot, Nest, Symfony)
 - Implement authentication systems (JWT, secure flows)
-- Structure scalable and maintainable projects (clean architecture, MVC)
+- Structure scalable and maintainable projects (clean architecture, MVC, MVVM, MVI...)
 - Work with databases (MySQL, MongoDB)
 - Integrate third-party APIs (payments, sports data, etc.)
+- Integrate slef-hosted micro-services (S3, mailers...)
+- Continious delivry & integration with pipelines
 
 ## 💼 Professional Experience
-🏢 Work-study Developer
+🏢 Developer
 
 ## 📅 2024 - Present
 

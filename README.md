@@ -1,6 +1,6 @@
 ## About me
 
-```bash
+```kotlin
 name: Thierry LEUNG
 role: Developper
 specialization: [Android Kotlin, Nest TS]

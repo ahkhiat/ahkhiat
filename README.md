@@ -1,8 +1,12 @@
 ## About me
 
-Android (Kotlin) & Backend Developer
-Spring Boot · NestJS · MongoDB · MySQL · Docker · CI/CD
-Build, test, ship 🚀
+```bash
+name: Thierry LEUNG
+role: Developper
+specialization: [Android Kotlin, Nest TS]
+current_position: Developper @ Dev-id
+location: Marseille, France
+```
 
 ## Social media
 

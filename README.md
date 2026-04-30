@@ -84,6 +84,20 @@ php
 Frontend
 React, Tailwind CSS
 
+<p align="left">
+  <a href="https://gitlab.com/ahkhiat">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white" height="40"/>
+  </a>
+  
+  <a href="https://github.com/ton-username">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height="40"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/ahkhiat">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+  </a>
+</p>
+
 Mobile
 Kotlin, Jetpack Compose
 
@@ -95,6 +109,7 @@ MySQL, MongoDB
 
 Tools & DevOps
 Git, Docker, CI/CD
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## 📚 Education
 
